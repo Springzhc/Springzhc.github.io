@@ -1,6 +1,221 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>MAC常用快捷键</title>
+    <url>/2020/02/14/MAC%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
+    <content><![CDATA[<h1 id="MacPro常用快捷键大全"><a href="#MacPro常用快捷键大全" class="headerlink" title="MacPro常用快捷键大全"></a>MacPro常用快捷键大全</h1><h2 id="01访达"><a href="#01访达" class="headerlink" title="01访达"></a>01访达</h2><table>
+<thead>
+<tr>
+<th>*<u><strong>分类</strong></u>*</th>
+<th>*<u><strong>访达</strong></u>*</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>⌘ ,</td>
+<td>偏好设置…</td>
+</tr>
+<tr>
+<td>⌘⌫</td>
+<td>放入废纸篓</td>
+</tr>
+<tr>
+<td>⇧⌘⌫</td>
+<td>清倒废纸篓</td>
+</tr>
+<tr>
+<td>⇧⌘ E</td>
+<td>搜狗输入法：切换英文\中文输入模式</td>
+</tr>
+<tr>
+<td>⌘ H</td>
+<td>隐藏访达</td>
+</tr>
+<tr>
+<td>⌘ Tab</td>
+<td>切换程序</td>
+</tr>
+<tr>
+<td>## 02文件</td>
+<td></td>
+</tr>
+<tr>
+<td>分类</td>
+<td>⽂件</td>
+</tr>
+<tr>
+<td>———————</td>
+<td>——————</td>
+</tr>
+<tr>
+<td>⌘ N</td>
+<td><strong><em>新建“访达”窗⼝</em></strong></td>
+</tr>
+<tr>
+<td>⇧⌘ N</td>
+<td>新建⽂件夹</td>
+</tr>
+<tr>
+<td>⌘ T</td>
+<td>新建标签⻚</td>
+</tr>
+<tr>
+<td>⌘ O</td>
+<td><strong><em>打开</em></strong></td>
+</tr>
+<tr>
+<td>⌃ ⌘ O</td>
+<td>在新标签⻚中打开</td>
+</tr>
+<tr>
+<td>⌥⌘ O</td>
+<td>在新窗⼝中打开并关闭旧窗⼝</td>
+</tr>
+<tr>
+<td>⌘ W</td>
+<td><strong><em>关闭窗⼝</em></strong></td>
+</tr>
+<tr>
+<td>⌥⌘ W</td>
+<td>全部关闭</td>
+</tr>
+<tr>
+<td>⌘ I</td>
+<td><strong><em>显示简介</em></strong></td>
+</tr>
+<tr>
+<td>⌥⌘ I</td>
+<td>显示检查器</td>
+</tr>
+<tr>
+<td>⌃⌘ I</td>
+<td>显示摘要信息</td>
+</tr>
+<tr>
+<td>⌘ D</td>
+<td><strong>复制</strong></td>
+</tr>
+<tr>
+<td>⌥⇧⌘ D</td>
+<td>精确复制</td>
+</tr>
+<tr>
+<td>⌃⌘ A</td>
+<td><strong>制作替身</strong></td>
+</tr>
+<tr>
+<td><strong>⌥⌘⌫</strong></td>
+<td><strong>⽴即删除…</strong></td>
+</tr>
+<tr>
+<td>⌘ F</td>
+<td>查找</td>
+</tr>
+</tbody></table>
+<h2 id="03编辑"><a href="#03编辑" class="headerlink" title="03编辑"></a>03编辑</h2><table>
+<thead>
+<tr>
+<th>快捷键</th>
+<th>功能</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>⌥⌘ C</td>
+<td>将“桌⾯”拷⻉为路径名称</td>
+</tr>
+<tr>
+<td>⌘ A</td>
+<td>全选</td>
+</tr>
+<tr>
+<td>⌘ R</td>
+<td>向右旋转</td>
+</tr>
+<tr>
+<td>⌘ L</td>
+<td>向左旋转</td>
+</tr>
+</tbody></table>
+<h2 id="04前往"><a href="#04前往" class="headerlink" title="04前往"></a>04前往</h2><table>
+<thead>
+<tr>
+<th>快捷键</th>
+<th>功能</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>⌘ ↑</td>
+<td>上层⽂件夹</td>
+</tr>
+<tr>
+<td>⇧⌘ ↑</td>
+<td>选择启动磁盘</td>
+</tr>
+<tr>
+<td>⌥⌘ ↓</td>
+<td>打开所选项</td>
+</tr>
+<tr>
+<td>⇧⌘ F</td>
+<td>最近使⽤</td>
+</tr>
+<tr>
+<td>⇧⌘ O</td>
+<td>⽂稿</td>
+</tr>
+<tr>
+<td>⌥⌘ L</td>
+<td>下载</td>
+</tr>
+<tr>
+<td>⇧⌘ A</td>
+<td>应⽤程序</td>
+</tr>
+<tr>
+<td>⇧⌘ G</td>
+<td>前往⽂件夹…</td>
+</tr>
+</tbody></table>
+<h2 id="05截图截屏"><a href="#05截图截屏" class="headerlink" title="05截图截屏"></a>05截图截屏</h2><table>
+<thead>
+<tr>
+<th>快捷键</th>
+<th>英文</th>
+<th>翻译</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>⇧⌘ 5</td>
+<td>Take Screenshot</td>
+<td>录制屏幕</td>
+</tr>
+<tr>
+<td>⇧⌘ 3</td>
+<td>Save Screenshot</td>
+<td>保存截屏</td>
+</tr>
+<tr>
+<td>⌃⇧⌘ 3</td>
+<td>Copy Screenshot</td>
+<td>复制截屏</td>
+</tr>
+<tr>
+<td>⇧⌘ 4</td>
+<td>Save Screenshot (Selection)</td>
+<td>选择截屏</td>
+</tr>
+<tr>
+<td>⌃⇧⌘ 4</td>
+<td>Copy Screenshot (Selection)</td>
+<td>复制选择截屏</td>
+</tr>
+</tbody></table>
+<h2 id="06系统参数："><a href="#06系统参数：" class="headerlink" title="06系统参数："></a>06系统参数：</h2><p>笔记本型号：<code>MacBook Pro (13-inch, Mid 2012)</code> </p>
+<p>操作系统版本：<code>macOS Mojave 10.14.6</code></p>
+<p>未完待续~</p>
+<p>更新日期：2020年02月20日</p>
+]]></content>
+  </entry>
+  <entry>
     <title>No.0002【学习+读书】How to read ？</title>
     <url>/2020/02/06/how-to-read/</url>
     <content><![CDATA[<h1 id="如何读书"><a href="#如何读书" class="headerlink" title="如何读书"></a>如何读书</h1><p>几个月前读完拆书帮赵周的《这样读书就够了》，今天拿出来又读了一遍，谈下体会。  </p>
