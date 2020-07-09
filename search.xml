@@ -356,6 +356,30 @@
       </tags>
   </entry>
   <entry>
+    <title>No.9999【技术】如何发布网站到GitHub?</title>
+    <url>/2020/01/31/No-9999%E3%80%90%E6%8A%80%E6%9C%AF%E3%80%91%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>欢迎使用Hexo。</p>
+<h3 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>_post 文件夹下会生成相应的md文件。</p>
+<h3 id="运行本地服务"><a href="#运行本地服务" class="headerlink" title="运行本地服务"></a>运行本地服务</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>本地运行，直接可以访问。一般用于网站发布前的核查和预览。</p>
+<h3 id="生成静态文章"><a href="#生成静态文章" class="headerlink" title="生成静态文章"></a>生成静态文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>将网站处理成为静态页面，主要为了发布到GitHub上。因为GitHub只支持静态页面。</p>
+<h3 id="应用远程站点"><a href="#应用远程站点" class="headerlink" title="应用远程站点"></a>应用远程站点</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>将生成的静态页面，上传到GitHub上，完成文章的发布。</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>原创</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>No.0007【读书】第六章：交流</title>
     <url>/2020/07/07/No-0007%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E7%AC%AC%E5%85%AD%E7%AB%A0-%E4%BA%A4%E6%B5%81/</url>
     <content><![CDATA[<h1 id="第六章：交流"><a href="#第六章：交流" class="headerlink" title="第六章：交流"></a>第六章：交流</h1><h2 id="1-学会倾听"><a href="#1-学会倾听" class="headerlink" title="1.学会倾听"></a>1.学会倾听</h2><p>正如没有人认为自己不会说一样，几乎没有人认为自己不会听。可事实上，大多数人并不懂得应该如何有效地倾听。从某种意义上讲，交流的有效与否往往更取决于听者而非说者，反过来说，失败的交流往往源自听者的疏忽。不夸张地讲，倾听能力的强弱，几乎能够决定一个人的命运，因为绝大部分时间里，任何一个人的生存和发展都依赖听某些人的话，或者，反过来，依赖某些人听他的话。</p>
@@ -1883,30 +1907,6 @@
       </categories>
       <tags>
         <tag>转载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>No.9999【技术】如何发布网站到GitHub?</title>
-    <url>/2020/01/31/No-9999%E3%80%90%E6%8A%80%E6%9C%AF%E3%80%91%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p>欢迎使用Hexo。</p>
-<h3 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>_post 文件夹下会生成相应的md文件。</p>
-<h3 id="运行本地服务"><a href="#运行本地服务" class="headerlink" title="运行本地服务"></a>运行本地服务</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>本地运行，直接可以访问。一般用于网站发布前的核查和预览。</p>
-<h3 id="生成静态文章"><a href="#生成静态文章" class="headerlink" title="生成静态文章"></a>生成静态文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>将网站处理成为静态页面，主要为了发布到GitHub上。因为GitHub只支持静态页面。</p>
-<h3 id="应用远程站点"><a href="#应用远程站点" class="headerlink" title="应用远程站点"></a>应用远程站点</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>将生成的静态页面，上传到GitHub上，完成文章的发布。</p>
-]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>原创</tag>
       </tags>
   </entry>
 </search>
